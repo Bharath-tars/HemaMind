@@ -54,6 +54,10 @@ AI Agent to analyze blood reports and provide detailed health insights.
 - Groq API key
 - PDFPlumber
 - Python-magic-bin (Windows) or Python-magic (Linux/Mac)
+- streamlit>=1.42.0
+- Pillow
+- easyocr
+- numpy
 
 #### Getting Started 📝
 
