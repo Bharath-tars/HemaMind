@@ -18,6 +18,10 @@ AI Agent to analyze blood reports and provide detailed health insights.
   <a href="#%EF%B8%8F-author">Author</a>
 </p>
 
+
+## Example Result
+![result](https://raw.githubusercontent.com/Bharath-tars/HemaMind/blob/main/public/db/example_report.png)
+
 ## 🌟 Features
 
 - Intelligent agent-based architecture with multi-model cascade system
