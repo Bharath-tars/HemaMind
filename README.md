@@ -28,6 +28,7 @@ AI Agent to analyze blood reports and provide detailed health insights.
 - In-context learning from previous analyses and knowledge base building
 - Medical report analysis with personalized health insights
 - PDF upload, validation and text extraction (up to 20MB)
+- Supports both text-parsable documents and scanned documents (scanned files may take longer to process since GPU acceleration isn’t available)
 - Secure user authentication and session management
 - Session history with report analysis tracking
 - Modern, responsive UI with real-time feedback
