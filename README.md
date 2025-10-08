@@ -56,8 +56,8 @@ AI Agent to analyze blood reports and provide detailed health insights.
 - Python-magic-bin (Windows) or Python-magic (Linux/Mac)
 - streamlit>=1.42.0
 - Pillow
-- easyocr
-- numpy
+- Easyocr
+- Numpy
 
 #### Getting Started 📝
 
