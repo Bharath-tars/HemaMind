@@ -20,7 +20,7 @@ AI Agent to analyze blood reports and provide detailed health insights.
 
 
 ## Example Result
-![result](https://raw.githubusercontent.com/Bharath-tars/HemaMind/blob/main/public/db/example_report.png)
+![result](https://raw.githubusercontent.com/Bharath-tars/HemaMind/blob/main/public/db/example_report.jpeg)
 
 ## 🌟 Features
 
