@@ -127,7 +127,7 @@ We appreciate all contributions, from reporting bugs and improving documentation
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/harshhh28/hia/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Bharath-tars/HemaMind/blob/main/LICENSE) file for details.
 
 ## 🙋‍♂️ Author
 
